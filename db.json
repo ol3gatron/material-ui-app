@@ -1,0 +1,70 @@
+{
+  "notes": [
+    {
+      "title": "Learn React",
+      "details": "I need to learn React",
+      "category": "react",
+      "id": 1
+    },
+    {
+      "title": "Learn JavaScript",
+      "details": "I need to learn JavaScript",
+      "category": "js",
+      "id": 2
+    },
+    {
+      "title": "Learn TypeScript",
+      "details": "I need to learn TypeScript",
+      "category": "ts",
+      "id": 3
+    },
+    {
+      "title": "My Birthday!",
+      "details": "On January 26 there will a party in celebration of my birthday!",
+      "category": "react",
+      "id": 4
+    },
+    {
+      "title": "I need to learn React",
+      "details": "I need to learn ReactI need to learn ReactI need to learn ReactI need to learn ReactI need to learn ReactI need to learn React",
+      "category": "react",
+      "id": 5
+    },
+    {
+      "title": "I need to learn React",
+      "details": "I need to learn React",
+      "category": "react",
+      "id": 7
+    },
+    {
+      "title": "I need to learn React",
+      "details": "I need to learn ReactI need to learn ReactI need to learn ReactI need to learn React",
+      "category": "react",
+      "id": 8
+    },
+    {
+      "title": "I need to learn React",
+      "details": "I need to learn ReactI need to learn React",
+      "category": "react",
+      "id": 9
+    },
+    {
+      "title": "I need to learn React",
+      "details": "I need to learn ReactI need to learn ReactI need to learn ReactI need to learn React",
+      "category": "react",
+      "id": 10
+    },
+    {
+      "title": "I need to learn React",
+      "details": "I need to learn React",
+      "category": "react",
+      "id": 11
+    },
+    {
+      "title": "I need to learn React",
+      "details": "I need to learn ReactI need to learn ReactI need to learn ReactI need to learn ReactI need to learn ReactI need to learn ReactI need to learn ReactI need to learn ReactI need to learn ReactI need to learn ReactI need to learn ReactI need to learn React",
+      "category": "react",
+      "id": 12
+    }
+  ]
+}
